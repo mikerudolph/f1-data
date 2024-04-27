@@ -1,0 +1,15 @@
+{
+  "name": "f1-data",
+  "version": "0.0.0",
+  "description": "Fetches data from F1 websocket server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Rudolph <heymikerudolph@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
